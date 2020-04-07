@@ -2,8 +2,6 @@ body {
     padding: 50px;
     
     margin: auto;
-    max-width: 1200px;
-    min-width: 1200px;
 
     line-height: 1.45em;
     font-size: 14px;
@@ -54,4 +52,9 @@ ul {
 
 strong {
     color: rgb(0, 51, 160);
+}
+
+img {
+    width: 100%;
+    height: auto;
 }

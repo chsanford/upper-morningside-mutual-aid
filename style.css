@@ -35,14 +35,14 @@ h1, h2, h3 {
 
 
 h1 {
-    font-size: 26px;
+    font-size: 30px;
     font-weight: 700;
     margin-bottom: 20px;
 }
 
 h2 {
-    font-size: 18px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 1000;
 }
 
 ul {
@@ -57,4 +57,17 @@ strong {
 img {
     width: 100%;
     height: auto;
+}
+
+th {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+td {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 1px solid #ddd
 }
